@@ -28,7 +28,7 @@ PAGE_ID = "<your page id>"
 VERIFY_TOKEN = "<your verify token>"
 ```
 
-5. Run the `app.py` file to start the bot
+5. Run the `messenger-scheduler.py` file to start the bot
 
 ## Usage
 
