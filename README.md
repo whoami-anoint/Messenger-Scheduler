@@ -19,13 +19,14 @@ pip install fbchat sqlite3
 
 3. Set up your Facebook App and Messenger product on the Facebook Developer Platform, and set up a webhook to receive and process messages from users
 4. Create a `secrets.py` file in the root directory of the project and add the following variables:
-
+```
 EMAIL = "<your email>"
 PASSWORD = "<your password>"
 APP_ID = "<your app id>"
 APP_SECRET = "<your app secret>"
 PAGE_ID = "<your page id>"
 VERIFY_TOKEN = "<your verify token>"
+```
 
 5. Run the `app.py` file to start the bot
 
