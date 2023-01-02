@@ -29,6 +29,9 @@ VERIFY_TOKEN = "<your verify token>"
 ```
 
 5. Run the `messenger-scheduler.py` file to start the bot
+```
+python app.py
+```
 
 ## Usage
 
